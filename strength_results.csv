@@ -1,0 +1,49 @@
+password_masked,length,score,crack_time_display,feedback
+p******d,8,0,less than a second,Add another word or two. Uncommon words are better.
+1****6,6,0,less than a second,Add another word or two. Uncommon words are better.
+a***n,5,0,less than a second,Add another word or two. Uncommon words are better.
+q****y,6,0,less than a second,Add another word or two. Uncommon words are better.
+w*****e,7,0,less than a second,Add another word or two. Uncommon words are better.
+a****3,6,0,less than a second,Add another word or two. Uncommon words are better.
+p*******1,9,0,less than a second,Add another word or two. Uncommon words are better.
+l*****n,7,0,less than a second,Add another word or two. Uncommon words are better.
+m****y,6,0,less than a second,Add another word or two. Uncommon words are better.
+d****n,6,0,less than a second,Add another word or two. Uncommon words are better.
+m****r,6,0,less than a second,Add another word or two. Uncommon words are better.
+s******e,8,0,less than a second,Add another word or two. Uncommon words are better.
+M********!,10,3,12 hours,
+C************g,14,3,3 hours,
+S********4,10,2,3 minutes,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+B**********9,12,1,15 seconds,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+P*********!,11,3,5 days,
+R*******3,9,2,18 minutes,Add another word or two. Uncommon words are better.
+M********e,10,2,10 minutes,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.; Predictable substitutions like '@' instead of 'a' don't help very much.
+W*********!,11,2,2 hours,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+S********n,10,2,3 minutes,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+B*******n,9,2,54 minutes,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+H*******y,9,2,13 minutes,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+S********4,10,2,2 minutes,Add another word or two. Uncommon words are better.; Capitalization doesn't help very much.
+K**************X,16,4,centuries,
+T**************!,16,4,centuries,
+9**************v,16,4,centuries,
+M*********************a,23,4,centuries,
+P***************4,17,3,2 days,
+7**************v,16,4,centuries,
+B****************r,18,4,5 years,
+X*************v,15,4,centuries,
+T*********************t,23,4,centuries,
+5**************v,16,4,centuries,
+N******************p,20,4,centuries,
+4**************x,16,4,centuries,
+c******************************!,32,4,centuries,
+p***********************************#,37,4,centuries,
+c*********************************@,35,4,centuries,
+o*******************************$,33,4,centuries,
+r*******************************!,33,4,centuries,
+d*********************************#,35,4,centuries,
+t************************************@,38,4,centuries,
+c********************************$,34,4,centuries,
+t************************************!,38,4,centuries,
+p*******************************#,33,4,centuries,
+s**********************************@,36,4,centuries,
+u***********************************$,37,4,centuries,
